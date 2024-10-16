@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=Ethernet.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Netconn.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Внешние разъемы.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Контроллер.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Память.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Питание и сброс.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Программаторы.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Разъем программирования.SchDoc|SheetNumber= 
